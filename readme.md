@@ -30,7 +30,7 @@ aider-install
 cd /to/your/project
 
 # Work with GPT-4o on your code
-aider --model gpt-4o --api-key openai=your-key-goes-here
+aider --model gpt-4o-mini --api-key openai=your-key-goes-here
 ```
 Ensure you have Python 3.10 or later installed. If not, download it from [python.org](https://www.python.org/downloads/).
 
@@ -38,7 +38,7 @@ Ensure you have Python 3.10 or later installed. If not, download it from [python
 
 ## 🛠️ Integrating Cline in VS Code
 
-[CLine](https://github.com/cline/cline) is a command-line interface tool that can be easily set up in VS Code:
+[Cline](https://github.com/cline/cline) is a coding ai agent extension that can be easily set up in VS Code:
 
 1. **Installation:**
    - Open VS Code
@@ -49,6 +49,7 @@ Ensure you have Python 3.10 or later installed. If not, download it from [python
 2. **Necessary settings:**
    - choose api provider: for us OpenAI
    - add api-key
+   - go to settings and choose "GPT-4o-mini"
 
 
 ---

@@ -56,3 +56,6 @@ Ensure you have Python 3.10 or later installed. If not, download it from [python
 
 ### 🚀 Ready for the Workshop!
 After installation, you can now use aider and cline directly in VS Code terminal or as IDE-extension. Enjoy the workshop! 🎉
+
+### 🎓 Lets try the examples...
+See example prompts in <example.md>

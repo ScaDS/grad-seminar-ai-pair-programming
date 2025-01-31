@@ -46,26 +46,12 @@ Ensure you have Python 3.10 or later installed. If not, download it from [python
    - type cline and install the extension
    - after installation: click on the new cline icon on the left menu
 
-2. **Set necessary settings:**
+2. **Necessary settings:**
    - choose api provider: for us OpenAI
-   - Choose your preferred shell (`Git Bash`, `PowerShell`, `zsh`, etc.)
+   - add api-key
 
-3. **Install CLine:**
-   - If not installed, run:
-     ```sh
-     pip install cline
-     ```
-
-4. **Run CLine:**
-   - Simply type:
-     ```sh
-     cline
-     ```
-
-5. **Optional: VS Code Tasks for Quick Access**
-   If you use CLine frequently, you can create a `tasks.json` in `.vscode/` to start it quickly.
 
 ---
 
 ### 🚀 Ready for the Workshop!
-After installation, you can now use Aider and CLine directly in your VS Code terminal. Enjoy the workshop! 🎉
+After installation, you can now use aider and cline directly in VS Code terminal or as IDE-extension. Enjoy the workshop! 🎉

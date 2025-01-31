@@ -42,7 +42,7 @@ Ensure you have Python 3.10 or later installed. If not, download it from [python
 
 1. **Installation:**
    - Open VS Code
-   - Press `Ctrl + Shift + X or navigate to `Extensions` (on the left)
+   - Press `Ctrl + Shift + X` or navigate to `Extensions` (on the left)
    - type cline and install the extension
    - after installation: click on the new cline icon on the left menu
 

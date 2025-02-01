@@ -3,8 +3,9 @@
 ### 💡 something practical:
 - Write me a python app with which I can read and visualize my data set.
 
-You could also think about helpful scripts and tasks those friendly agents could solve for you via tiny but helpful scripts once and for all.
-Think about your daily work
+You could also think about helpful scripts and tasks those friendly agents 
+could solve for you via tiny but helpful scripts once and for all.
+Think about your daily work.
 
 ### 🎨 something inspiring:
 - Write me a python app that displays a working keyboard of a C major scale that also outputs notes. 
@@ -17,3 +18,4 @@ What could we add here?
 - after some back and forth discussing let it code a game
 
 This could also be a creative way to learn how to use these agents efficiently by developing your own mini-game.
+

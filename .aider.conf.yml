@@ -1,4 +1,0 @@
-architect: true
-model: 'openai/deepseek-ai/DeepSeek-R1'
-editor-model: 'openai/deepseek-ai/DeepSeek-V3'
-multiline: true

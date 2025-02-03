@@ -41,8 +41,7 @@ cd /to/your/project
 # Work with GPT-4o-mini on your code
 aider --model gpt-4o-mini --api-key openai=your-key-goes-here
 
-# Or start via config:
-aider --config .aider-openai.conf.yml # with gpt-4o-mini & o3-mini via OpenAI-API
+# Or start via config & testing architect capabilities with a reasoning model (DeepSeek-R1):
 aider --config .aider-deepseek.conf.yml # with deepseek-V3 & deepseek-R1 via GLHF-API
 
 ```

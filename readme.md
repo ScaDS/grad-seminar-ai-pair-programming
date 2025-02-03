@@ -25,7 +25,7 @@ python3 -m venv aider_env
 source aider_env/bin/activate
 ```
 
-### 2. Install Aider
+### 2. Install Aider & usage
 Once the virtual environment is activated, install Aider using:
 ```sh
 python -m pip install aider-install
@@ -37,6 +37,9 @@ $env:PATH = "your-installation-path;$env:PATH" # hopefully this works for every 
 
 # Change directory into your code base
 cd /to/your/project
+
+# initialize a local git repo (aider relies on git)
+git init
 
 # Work with GPT-4o-mini on your code
 aider --model gpt-4o-mini --api-key openai=your-key-goes-here

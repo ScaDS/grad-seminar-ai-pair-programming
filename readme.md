@@ -32,7 +32,8 @@ python -m pip install aider-install
 aider-install
 
 # add aider to your path
-
+$env:PATH = "your-installation-path;$env:PATH" # hopefully this works for every OS 
+# if aider doesn't work after restarting your terminal maybe type this command again
 
 # Change directory into your code base
 cd /to/your/project
